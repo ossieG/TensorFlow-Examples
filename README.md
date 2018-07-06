@@ -1,3 +1,8 @@
+Source https://github.com/aymericdamien/TensorFlow-Examples and some from
+https://www.tensorflow.org/versions/r1.0/tutorials/
+
+Some updates does to match 1.8
+
 # TensorFlow Examples
 TensorFlow Tutorial with popular machine learning algorithms implementation. This tutorial was designed for easily diving into TensorFlow, through examples.
 
